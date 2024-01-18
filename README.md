@@ -1,5 +1,4 @@
-#Annual Sales Analysis:
-##Overview:
+#Annual Sales Analysis:##Overview:
 Vrinda Store wants to create an (Annual Sales Report for 2022)
 The primary goal of this project is to analyse and interpret the sales data for the VRinda Store over 2022. By doing so, the project aims to provide valuable insights that can guide strategic decision-making for the store's growth in 2023. This Analysis will Help Vrinda Store to better understand its customers and grow in 2023.
 ##Objectives:
