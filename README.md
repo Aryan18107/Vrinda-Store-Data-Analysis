@@ -32,6 +32,7 @@ For the Annual Sales Report of Vrinda Store 2022, we collected our data from a c
 4. The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.  
   
 ## Final Model:
+This concluding slide summarizes the key takeaways, recommendations, and expresses optimism for VRinda Store's future based on the insights gathered from the annual sales report.
 
 
 
